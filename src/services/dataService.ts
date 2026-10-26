@@ -227,8 +227,8 @@ export const DEFAULT_SETTINGS: AppSettings = {
 };
 
 export const DEFAULT_PROFILE: UserProfile = {
-  name: 'Akash',
-  email: 'akash@example.com',
+  name: 'Maya Sharma',
+  email: 'maya.sharma@example.com',
 };
 
 // ==================== Settings CRUD ====================
